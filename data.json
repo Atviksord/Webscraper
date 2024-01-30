@@ -1,0 +1,3560 @@
+{
+    "Day 1": {
+        "Terunofuji Haruo": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Ura Kazuki": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Takakeishō Mitsunobu",
+            "RESULT": "LOSS"
+        },
+        "Takakeishō Mitsunobu": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Takayasu Akira": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "WIN"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 2": {
+        "Terunofuji Haruo": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Takakeishō Mitsunobu",
+            "RESULT": "LOSS"
+        },
+        "Takakeishō Mitsunobu": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "WIN"
+        },
+        "Takayasu Akira": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "WIN"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "WIN"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "LOSS"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 1,
+            "LOSS": 1,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 2,
+            "LOSS": 0,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 2,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 3": {
+        "Terunofuji Haruo": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Takakeishō Mitsunobu",
+            "RESULT": "LOSS"
+        },
+        "Takakeishō Mitsunobu": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 3,
+            "LOSS": 0,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 3,
+            "LOSS": 0,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 3,
+            "LOSS": 0,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "WIN"
+        },
+        "Takayasu Akira": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 3,
+            "LOSS": 0,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 2,
+            "LOSS": 1,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 3,
+            "LOSS": 0,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 3,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 1,
+            "LOSS": 2,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 4": {
+        "Terunofuji Haruo": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 4,
+            "LOSS": 0,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Ura Kazuki": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Takakeishō Mitsunobu",
+            "RESULT": "LOSS"
+        },
+        "Takakeishō Mitsunobu": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 4,
+            "LOSS": 0,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 0,
+            "LOSS": 4,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 0,
+            "LOSS": 4,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 0,
+            "LOSS": 4,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 4,
+            "LOSS": 0,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 3,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 0,
+            "LOSS": 4,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 3,
+            "LOSS": 1,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        },
+        "Daiamami Genki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 4,
+            "OPPONENT": "Daiamami Genki",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 5": {
+        "Terunofuji Haruo": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "WIN"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 0,
+            "LOSS": 5,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 5,
+            "LOSS": 0,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Ura Kazuki": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "WIN"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 5,
+            "LOSS": 0,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 1,
+            "LOSS": 4,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 3,
+            "LOSS": 2,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 5,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 4,
+            "LOSS": 1,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "WIN"
+        }
+    },
+    "Day 6": {
+        "Terunofuji Haruo": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 2,
+            "LOSS": 4,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 2,
+            "LOSS": 4,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Takayasu Akira": {
+            "WIN": 2,
+            "LOSS": 2,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Ura Kazuki": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 6,
+            "LOSS": 0,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Hokuseihō Osamu",
+            "RESULT": "LOSS"
+        },
+        "Hokuseihō Osamu": {
+            "WIN": 2,
+            "LOSS": 4,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 2,
+            "LOSS": 4,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 4,
+            "LOSS": 2,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 6,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 5,
+            "LOSS": 1,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 1,
+            "LOSS": 5,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 3,
+            "LOSS": 3,
+            "OPPONENT": "Mitoryū Takayuki",
+            "RESULT": "WIN"
+        },
+        "Mitoryū Takayuki": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        }
+    },
+    "Day 7": {
+        "Terunofuji Haruo": {
+            "WIN": 5,
+            "LOSS": 2,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 5,
+            "LOSS": 2,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 6,
+            "LOSS": 1,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "WIN"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 6,
+            "LOSS": 1,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 1,
+            "LOSS": 6,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 5,
+            "LOSS": 2,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Takayasu Akira": {
+            "WIN": 2,
+            "LOSS": 3,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 1,
+            "LOSS": 6,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 2,
+            "LOSS": 5,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 2,
+            "LOSS": 5,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 6,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 7,
+            "LOSS": 0,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 6,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 2,
+            "LOSS": 5,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 2,
+            "LOSS": 5,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 1,
+            "LOSS": 6,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 6,
+            "LOSS": 1,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 5,
+            "LOSS": 2,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 3,
+            "LOSS": 4,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 2,
+            "LOSS": 5,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 5,
+            "LOSS": 2,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 4,
+            "LOSS": 3,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Aoiyama Kōsuke": {
+            "WIN": 0,
+            "LOSS": 7,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 6,
+            "LOSS": 1,
+            "OPPONENT": "Aoiyama Kōsuke",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 8": {
+        "Terunofuji Haruo": {
+            "WIN": 6,
+            "LOSS": 2,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 5,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 6,
+            "LOSS": 2,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 6,
+            "LOSS": 2,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 2,
+            "LOSS": 6,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 6,
+            "LOSS": 2,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 7,
+            "LOSS": 1,
+            "OPPONENT": "Takayasu Akira",
+            "RESULT": "WIN"
+        },
+        "Takayasu Akira": {
+            "WIN": 2,
+            "LOSS": 4,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 1,
+            "LOSS": 7,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 2,
+            "LOSS": 6,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 2,
+            "LOSS": 6,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 7,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 7,
+            "LOSS": 1,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 3,
+            "LOSS": 5,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 3,
+            "LOSS": 5,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 6,
+            "LOSS": 2,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 3,
+            "LOSS": 5,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 2,
+            "LOSS": 6,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 5,
+            "LOSS": 3,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 1,
+            "LOSS": 7,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 7,
+            "LOSS": 1,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 1,
+            "LOSS": 7,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 7,
+            "LOSS": 1,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        },
+        "Nishikifuji Ryusei": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 4,
+            "OPPONENT": "Nishikifuji Ryusei",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 9": {
+        "Terunofuji Haruo": {
+            "WIN": 7,
+            "LOSS": 2,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 6,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "LOSS"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 7,
+            "LOSS": 2,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 7,
+            "LOSS": 2,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 8,
+            "LOSS": 1,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 2,
+            "LOSS": 7,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 2,
+            "LOSS": 7,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 2,
+            "LOSS": 7,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 3,
+            "LOSS": 6,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Hokutofuji Daiki",
+            "RESULT": "LOSS"
+        },
+        "Hokutofuji Daiki": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "WIN"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 8,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 3,
+            "LOSS": 6,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 8,
+            "LOSS": 1,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 7,
+            "LOSS": 2,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 8,
+            "LOSS": 1,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 3,
+            "LOSS": 6,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 5,
+            "LOSS": 4,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 6,
+            "LOSS": 3,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 5,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 3,
+            "LOSS": 6,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 1,
+            "LOSS": 8,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Endō Shōta": {
+            "WIN": 2,
+            "LOSS": 7,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 10": {
+        "Terunofuji Haruo": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 5,
+            "LOSS": 5,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 6,
+            "LOSS": 4,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "WIN"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 9,
+            "LOSS": 1,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 3,
+            "LOSS": 7,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 2,
+            "LOSS": 8,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 7,
+            "LOSS": 3,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 7,
+            "LOSS": 3,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 6,
+            "LOSS": 4,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 7,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 3,
+            "LOSS": 7,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 5,
+            "LOSS": 5,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 7,
+            "LOSS": 3,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 6,
+            "LOSS": 4,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 5,
+            "LOSS": 5,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 3,
+            "LOSS": 7,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 9,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 5,
+            "LOSS": 5,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 2,
+            "LOSS": 8,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 5,
+            "LOSS": 5,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 4,
+            "LOSS": 6,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 7,
+            "LOSS": 3,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 6,
+            "LOSS": 4,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 3,
+            "LOSS": 7,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 11": {
+        "Terunofuji Haruo": {
+            "WIN": 9,
+            "LOSS": 2,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 8,
+            "LOSS": 3,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 8,
+            "LOSS": 3,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "WIN"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 9,
+            "LOSS": 2,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 9,
+            "LOSS": 2,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 6,
+            "LOSS": 5,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 10,
+            "LOSS": 1,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 6,
+            "LOSS": 5,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 2,
+            "LOSS": 9,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 8,
+            "LOSS": 3,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "LOSS"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 7,
+            "LOSS": 4,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 7,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 3,
+            "LOSS": 8,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 6,
+            "LOSS": 5,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 4,
+            "LOSS": 7,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 8,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 6,
+            "LOSS": 5,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 3,
+            "LOSS": 8,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 3,
+            "LOSS": 8,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 1,
+            "LOSS": 10,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 7,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 3,
+            "LOSS": 8,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 7,
+            "LOSS": 4,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 7,
+            "LOSS": 4,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 4,
+            "LOSS": 7,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 5,
+            "LOSS": 6,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 8,
+            "LOSS": 3,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 7,
+            "LOSS": 4,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        }
+    },
+    "Day 12": {
+        "Terunofuji Haruo": {
+            "WIN": 10,
+            "LOSS": 2,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 10,
+            "LOSS": 2,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 7,
+            "LOSS": 5,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "WIN"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 10,
+            "LOSS": 2,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 9,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "LOSS"
+        },
+        "Daieishō Hayato": {
+            "WIN": 7,
+            "LOSS": 5,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 11,
+            "LOSS": 1,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 4,
+            "LOSS": 8,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 3,
+            "LOSS": 9,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 6,
+            "LOSS": 6,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 3,
+            "LOSS": 9,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 6,
+            "LOSS": 6,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 2,
+            "LOSS": 10,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 8,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 7,
+            "LOSS": 5,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 6,
+            "LOSS": 6,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 6,
+            "LOSS": 6,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Endō Shōta": {
+            "WIN": 3,
+            "LOSS": 9,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 6,
+            "LOSS": 6,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 4,
+            "LOSS": 8,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 7,
+            "LOSS": 5,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 4,
+            "LOSS": 8,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 8,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 7,
+            "LOSS": 5,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 5,
+            "LOSS": 7,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 8,
+            "LOSS": 4,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        }
+    },
+    "Day 13": {
+        "Terunofuji Haruo": {
+            "WIN": 11,
+            "LOSS": 2,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 11,
+            "LOSS": 2,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 11,
+            "LOSS": 2,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "WIN"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 10,
+            "LOSS": 3,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 7,
+            "LOSS": 6,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 7,
+            "LOSS": 6,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 7,
+            "LOSS": 6,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 9,
+            "LOSS": 4,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 6,
+            "LOSS": 7,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 6,
+            "LOSS": 7,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 5,
+            "LOSS": 8,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 7,
+            "LOSS": 6,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 8,
+            "LOSS": 2,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 7,
+            "LOSS": 6,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 10,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Endō Shōta": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 3,
+            "LOSS": 10,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "WIN"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 6,
+            "LOSS": 7,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 5,
+            "LOSS": 8,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "WIN"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 9,
+            "LOSS": 4,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "LOSS"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 5,
+            "LOSS": 8,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 4,
+            "LOSS": 9,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 6,
+            "LOSS": 7,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 8,
+            "LOSS": 5,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 9,
+            "LOSS": 4,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 5,
+            "LOSS": 8,
+            "OPPONENT": "Tohakuryu Masahito",
+            "RESULT": "WIN"
+        },
+        "Tohakuryu Masahito": {
+            "WIN": 1,
+            "LOSS": 0,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        }
+    },
+    "Day 14": {
+        "Terunofuji Haruo": {
+            "WIN": 12,
+            "LOSS": 2,
+            "OPPONENT": "Hōshōryū Tomokatsu",
+            "RESULT": "WIN"
+        },
+        "Hōshōryū Tomokatsu": {
+            "WIN": 10,
+            "LOSS": 4,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 11,
+            "LOSS": 3,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 12,
+            "LOSS": 2,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 6,
+            "LOSS": 8,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 10,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "WIN"
+        },
+        "Ura Kazuki": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 9,
+            "LOSS": 2,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "WIN"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 6,
+            "LOSS": 8,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "LOSS"
+        },
+        "Abi Masatora": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 11,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 4,
+            "LOSS": 10,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "LOSS"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 7,
+            "LOSS": 7,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 7,
+            "LOSS": 7,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 6,
+            "LOSS": 8,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 3,
+            "LOSS": 11,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "LOSS"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "LOSS"
+        },
+        "Meisei Chikara": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "WIN"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 10,
+            "LOSS": 4,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "WIN"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 6,
+            "LOSS": 8,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "WIN"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 8,
+            "LOSS": 6,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "WIN"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 9,
+            "LOSS": 5,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "WIN"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 10,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Roga Tokiyoshi": {
+            "WIN": 0,
+            "LOSS": 1,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "LOSS"
+        },
+        "Endō Shōta": {
+            "WIN": 5,
+            "LOSS": 9,
+            "OPPONENT": "Roga Tokiyoshi",
+            "RESULT": "LOSS"
+        }
+    },
+    "Day 15": {
+        "Terunofuji Haruo": {
+            "WIN": 13,
+            "LOSS": 2,
+            "OPPONENT": "Kirishima Tetsuo",
+            "RESULT": "WIN"
+        },
+        "Kirishima Tetsuo": {
+            "WIN": 11,
+            "LOSS": 4,
+            "OPPONENT": "Terunofuji Haruo",
+            "RESULT": "WIN"
+        },
+        "Kotonowaka Masahiro": {
+            "WIN": 13,
+            "LOSS": 2,
+            "OPPONENT": "Tobizaru Masaya",
+            "RESULT": "WIN"
+        },
+        "Tobizaru Masaya": {
+            "WIN": 7,
+            "LOSS": 8,
+            "OPPONENT": "Kotonowaka Masahiro",
+            "RESULT": "LOSS"
+        },
+        "Asanoyama Hideki": {
+            "WIN": 9,
+            "LOSS": 3,
+            "OPPONENT": "Daieishō Hayato",
+            "RESULT": "WIN"
+        },
+        "Daieishō Hayato": {
+            "WIN": 9,
+            "LOSS": 6,
+            "OPPONENT": "Asanoyama Hideki",
+            "RESULT": "WIN"
+        },
+        "Ryūden Gōshi": {
+            "WIN": 3,
+            "LOSS": 12,
+            "OPPONENT": "Ura Kazuki",
+            "RESULT": "LOSS"
+        },
+        "Ura Kazuki": {
+            "WIN": 6,
+            "LOSS": 9,
+            "OPPONENT": "Ryūden Gōshi",
+            "RESULT": "LOSS"
+        },
+        "Wakamotoharu Minato": {
+            "WIN": 10,
+            "LOSS": 5,
+            "OPPONENT": "Nishikigi Tetsuya",
+            "RESULT": "LOSS"
+        },
+        "Nishikigi Tetsuya": {
+            "WIN": 8,
+            "LOSS": 7,
+            "OPPONENT": "Wakamotoharu Minato",
+            "RESULT": "WIN"
+        },
+        "Shōnannoumi Momotaro": {
+            "WIN": 4,
+            "LOSS": 11,
+            "OPPONENT": "Atamifuji Sakutaro",
+            "RESULT": "LOSS"
+        },
+        "Atamifuji Sakutaro": {
+            "WIN": 6,
+            "LOSS": 9,
+            "OPPONENT": "Shōnannoumi Momotaro",
+            "RESULT": "LOSS"
+        },
+        "Midorifuji Kazunari": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Kinbōzan Haruki",
+            "RESULT": "LOSS"
+        },
+        "Kinbōzan Haruki": {
+            "WIN": 7,
+            "LOSS": 8,
+            "OPPONENT": "Midorifuji Kazunari",
+            "RESULT": "WIN"
+        },
+        "Hiradoumi Yuki": {
+            "WIN": 8,
+            "LOSS": 7,
+            "OPPONENT": "Abi Masatora",
+            "RESULT": "WIN"
+        },
+        "Abi Masatora": {
+            "WIN": 8,
+            "LOSS": 7,
+            "OPPONENT": "Hiradoumi Yuki",
+            "RESULT": "LOSS"
+        },
+        "Gōnoyama Tōki": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Takanoshō Nobuaki",
+            "RESULT": "LOSS"
+        },
+        "Takanoshō Nobuaki": {
+            "WIN": 10,
+            "LOSS": 5,
+            "OPPONENT": "Gōnoyama Tōki",
+            "RESULT": "WIN"
+        },
+        "Churanoumi Yoshihisa": {
+            "WIN": 7,
+            "LOSS": 8,
+            "OPPONENT": "Shōdai Naoya",
+            "RESULT": "WIN"
+        },
+        "Shōdai Naoya": {
+            "WIN": 4,
+            "LOSS": 11,
+            "OPPONENT": "Churanoumi Yoshihisa",
+            "RESULT": "WIN"
+        },
+        "Ichiyamamoto Daiki": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Myōgiryū Yasunari",
+            "RESULT": "LOSS"
+        },
+        "Myōgiryū Yasunari": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Ichiyamamoto Daiki",
+            "RESULT": "LOSS"
+        },
+        "Mitakeumi Hisashi": {
+            "WIN": 6,
+            "LOSS": 9,
+            "OPPONENT": "Endō Shōta",
+            "RESULT": "WIN"
+        },
+        "Endō Shōta": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Mitakeumi Hisashi",
+            "RESULT": "LOSS"
+        },
+        "Shimazuumi Sora": {
+            "WIN": 9,
+            "LOSS": 6,
+            "OPPONENT": "Meisei Chikara",
+            "RESULT": "WIN"
+        },
+        "Meisei Chikara": {
+            "WIN": 9,
+            "LOSS": 6,
+            "OPPONENT": "Shimazuumi Sora",
+            "RESULT": "LOSS"
+        },
+        "Tamawashi Ichirō": {
+            "WIN": 8,
+            "LOSS": 7,
+            "OPPONENT": "Ōnosato Daiki",
+            "RESULT": "LOSS"
+        },
+        "Ōnosato Daiki": {
+            "WIN": 11,
+            "LOSS": 4,
+            "OPPONENT": "Tamawashi Ichirō",
+            "RESULT": "WIN"
+        },
+        "Ōnoshō Fumiya": {
+            "WIN": 10,
+            "LOSS": 5,
+            "OPPONENT": "Sadanoumi Takashi",
+            "RESULT": "LOSS"
+        },
+        "Sadanoumi Takashi": {
+            "WIN": 6,
+            "LOSS": 9,
+            "OPPONENT": "Ōnoshō Fumiya",
+            "RESULT": "WIN"
+        },
+        "Tsurugishō Momotarō": {
+            "WIN": 9,
+            "LOSS": 6,
+            "OPPONENT": "Bushozan Kotaro",
+            "RESULT": "LOSS"
+        },
+        "Bushozan Kotaro": {
+            "WIN": 4,
+            "LOSS": 11,
+            "OPPONENT": "Tsurugishō Momotarō",
+            "RESULT": "LOSS"
+        },
+        "Tomokaze Yūta": {
+            "WIN": 5,
+            "LOSS": 10,
+            "OPPONENT": "Ōhō Konosuke",
+            "RESULT": "LOSS"
+        },
+        "Ōhō Konosuke": {
+            "WIN": 10,
+            "LOSS": 5,
+            "OPPONENT": "Tomokaze Yūta",
+            "RESULT": "WIN"
+        },
+        "Kotoshōhō Yoshinari": {
+            "WIN": 9,
+            "LOSS": 6,
+            "OPPONENT": "Takarafuji Daisuke",
+            "RESULT": "WIN"
+        },
+        "Takarafuji Daisuke": {
+            "WIN": 6,
+            "LOSS": 9,
+            "OPPONENT": "Kotoshōhō Yoshinari",
+            "RESULT": "WIN"
+        }
+    }
+}

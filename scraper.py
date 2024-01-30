@@ -38,22 +38,26 @@ async def scrapeTournament(linklist,day=0):
     
     
 #create logic for the dictionary
-def createdic(playerlist,rikishidictionary = {},day = 1):
+def createdic(playerlist, tournament_dict={}, day = 1):
+    rikishidictionary = {}  
+    for rikishi in playerlist:
+
+        if rikishi[1] in tournament_dict:
+            rikishidictionary[rikishi[1]] = dict(tournament_dict[rikishi[1]]) 
+        else:        
+            rikishidictionary[rikishi[1]] = {'WIN':0,'LOSS':0,'OPPONENT':'','RESULT':rikishi[2]}
     
-    for rikishi in playerlist:
-        if rikishi[1] not in rikishidictionary:
-            rikishidictionary.update({rikishi[1]:{'WIN':0,'LOSS':0,'OPPONENT':'','BOUTNUMBER':rikishi[0]}})
-    for rikishi in playerlist:
         if rikishi[2] == 'WIN':
             rikishidictionary[rikishi[1]]['WIN']+= 1
         elif rikishi[2] == 'LOSS':
             rikishidictionary[rikishi[1]]['LOSS']+= 1
+
     for x in range(len(playerlist)):
         if x < (len(playerlist)-1) and playerlist[x][0] == playerlist[x+1][0]:
             rikishidictionary[playerlist[x][1]]['OPPONENT'] = playerlist[x+1][1]
         if x > 0 and playerlist[x][0] == playerlist[x-1][0]:
             rikishidictionary[playerlist[x][1]]['OPPONENT'] = playerlist[x-1][1]
-    return {f'Day {day}':rikishidictionary},rikishidictionary   
+    return rikishidictionary
 
 def storedata(rikishidictionary):
    with open('data.json', 'w', encoding='utf-8') as f:
@@ -62,25 +66,20 @@ def storedata(rikishidictionary):
 async def main():
     links = await scrapeBase()
     master_dict = {}
-    for day in range(15):
-         playerlist = await scrapeTournament(links,day)
-         day_dict,dic = createdic(playerlist)
-         master_dict.update(day_dict)
+    tournament_dict = {}
+    for day in range(len(links)):
+        playerlist = await scrapeTournament(links,day)
+        rikishidictionary = createdic(playerlist, tournament_dict, day+1)
+        tournament_dict.update(rikishidictionary)
+        master_dict[f'Day {day+1}'] = rikishidictionary
     print('Finished')
     storedata(master_dict)
+
     
 
     
 
 asyncio.run(main())
     
-
-        
-
-
-
-
-#linklist = asyncio.run(scrapeBase())
-#asyncio.run(scrapeTournament(linklist))
 
 
